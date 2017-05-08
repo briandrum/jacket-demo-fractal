@@ -1,0 +1,26 @@
+{
+  "name": "suitcss-jacket-demo",
+  "version": "1.0.0",
+  "description": "Component library demo for SUIT CSS Jacket",
+  "keywords": [
+    "browser",
+    "css-theme",
+    "style",
+    "suitcss"
+  ],
+  "homepage": "https://github.com/briandrum/suitcss-jacket-demo#readme",
+  "bugs": "https://github.com/briandrum/suitcss-jacket-demo/labels/bug",
+  "license": "MIT",
+  "author": "Brian Drum",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/briandrum/suitcss-jacket-site.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@frctl/fractal": "^1.1.4"
+  }
+}
